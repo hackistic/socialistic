@@ -30,7 +30,7 @@
             },
             {
                 "type": "action",
-                "label": "",
+                "label": "Login",
                 "url": "/contact",
                 "style": "link"
             }
