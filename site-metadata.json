@@ -1,8 +1,8 @@
 {
     "title": "Socialistic - The No BS Social Platform",
-    "description": "No BS Social Platform ",
+    "description": "No BS Social Platform",
     "layout_style": "grid",
-    "palette": "green",
+    "palette": "black",
     "header": {
         "type": "header",
         "title": "Ampersand",
