@@ -31,7 +31,7 @@
             {
                 "type": "action",
                 "label": "Login",
-                "url": "/contact",
+                "url": "/login",
                 "style": "link"
             }
         ]
