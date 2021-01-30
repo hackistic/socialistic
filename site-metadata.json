@@ -1,13 +1,13 @@
 {
-    "title": "Stackbit Ampersand Theme",
-    "description": "Medium inspired blogging theme for Stackbit",
+    "title": "Socialistic - The No BS Social Platform",
+    "description": "No BS Social Platform",
     "layout_style": "grid",
-    "palette": "green",
+    "palette": "black",
     "header": {
         "type": "header",
         "title": "Ampersand",
-        "logo_img": "images/logo.svg",
-        "logo_img_alt": "Ampersand Logo",
+        "logo_img": "/images/pretty image.jpg",
+        "logo_img_alt": "Hackistic",
         "has_nav": true,
         "nav_links": [
             {
@@ -24,14 +24,14 @@
             },
             {
                 "type": "action",
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Our Vision",
+                "url": "/vision ",
                 "style": "link"
             },
             {
                 "type": "action",
-                "label": "Contact",
-                "url": "/contact",
+                "label": "Login",
+                "url": "/login",
                 "style": "link"
             }
         ]
@@ -86,5 +86,6 @@
         "subscribe_title": "Subscribe for new updates",
         "subscribe_content": "Subscribe to my email newsletter to receive useful articles and special offers. This monthly email is sent out on the first of every month.",
         "subscribe_action": "/subscribe-success"
-    }
+    },
+    "favicon": "/images/pretty image (1).jpg"
 }
