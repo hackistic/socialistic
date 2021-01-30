@@ -38,7 +38,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created wit",
+        "content": "",
         "has_social": true,
         "social_links": [
             {
