@@ -38,7 +38,7 @@
     },
     "footer": {
         "type": "footer",
-        "content": "",
+        "content": "Copyright ",
         "has_social": true,
         "social_links": [
             {
