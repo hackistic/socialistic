@@ -24,7 +24,7 @@
             },
             {
                 "type": "action",
-                "label": "",
+                "label": "Login",
                 "url": "/style-guide",
                 "style": "link"
             },
