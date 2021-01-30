@@ -39,7 +39,7 @@
     "footer": {
         "type": "footer",
         "content": "Copyright Socialistic 2021 All Rights Reserved",
-        "has_social": false,
+        "has_social": true,
         "social_links": [
             {
                 "type": "action",
